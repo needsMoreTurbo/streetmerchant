@@ -23,6 +23,27 @@ export const BAndH: Store = {
 		},
 		{
 			brand: 'asus',
+			model: 'ekwb',
+			series: '3070',
+			url:
+				'https://www.bhphotovideo.com/c/product/1614305-REG/asus_rtx3070_8g_ek_ekwb_geforce_rtx_3070.html'
+		},
+		{
+			brand: 'asus',
+			model: 'ekwb',
+			series: '3080',
+			url:
+				'https://www.bhphotovideo.com/c/product/1614303-REG/asus_rtx3080_10g_ek_ekwb_geforce_rtx_3080.html'
+		},
+		{
+			brand: 'asus',
+			model: 'ekwb',
+			series: '3090',
+			url:
+				'https://www.bhphotovideo.com/c/product/1607043-REG/asus_rtx3090_24g_ek_geforce_rtx_3090_24g.html'
+		},
+		{
+			brand: 'asus',
 			model: 'dual',
 			series: '3070',
 			url:

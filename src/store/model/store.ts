@@ -78,6 +78,7 @@ export type Model =
 	| 'dual'
 	| 'eagle oc'
 	| 'eagle'
+	| 'ekwb'
 	| 'founders edition'
 	| 'ftw3'
 	| 'ftw3 ultra'

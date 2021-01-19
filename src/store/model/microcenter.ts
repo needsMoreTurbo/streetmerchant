@@ -49,6 +49,18 @@ for (const microCenterLocation of microCenterLocations) {
 				url: `https://www.microcenter.com/product/618433/evga-geforce-rtx-2060-ko-ultra-overclocked-dual-fan-6gb-gddr6-pcie-30-graphics-card/?storeid=${storeId}`
 			},
 			{
+				brand: 'asus',
+				model: 'ekwb',
+				series: '3090',
+				url: `https://www.microcenter.com/product/631930/asus-nvidia-geforce-rtx-3090-ekwb-liquid-cooled-24gb-gddr6x-pcie-40-graphics-card/?storeid=${storeId}`
+			},
+			{
+				brand: 'asus',
+				model: 'ekwb',
+				series: '3080',
+				url: `https://www.microcenter.com/product/632127/asus-nvidia-geforce-rtx-3080-ekwb-triple-fan-10gb-gddr6x-pcie-40-graphics-card/?storeid=${storeId}`
+			},
+			{
 				brand: 'evga',
 				model: 'xc3 ultra',
 				series: '3080',

@@ -64,7 +64,14 @@ export const Walmart: Store = {
 			series: 'ryzen5900',
 			url:
 				'https://www.walmart.com/ip/AMD-Ryzen-9-5900X-12-core-24-thread-Desktop-Processor/159710953'
-		}
+			},
+			{
+				brand: 'amd',
+				model: '5600x',
+				series: 'ryzen5600',
+				url:
+					'https://www.walmart.com/ip/AMD-Ryzen-5-5600X-6-core-12-thread-Desktop-Processor/182785024'
+			}
 	],
 	name: 'walmart'
 };

@@ -37,7 +37,14 @@ export const AntOnline: Store = {
 			series: 'xboxss',
 			url:
 				'https://www.antonline.com/Microsoft/Electronics/Gaming_Devices/Gaming_Consoles/1409527'
-		}
+			},
+			{
+				brand: 'amd',
+				model: '5600x',
+				series: 'ryzen5600',
+				url: 
+					'https://www.antonline.com/AMD/Computers/Electronic_Components/Microprocessors/1414834'
+			}
 	],
 	name: 'antonline'
 };

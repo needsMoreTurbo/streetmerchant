@@ -34,6 +34,14 @@ export const Amazon: Store = {
 		{
 			brand: 'asus',
 			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08R5WDMZC&Quantity.1=1',
+			model: 'ekwb',
+			series: '3090',
+			url: 'https://www.amazon.com/dp/B08R5WDMZC'
+		},
+		{
+			brand: 'asus',
+			cartUrl:
 				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08P2HBBLX&Quantity.1=1',
 			model: 'dual',
 			series: '3060ti',

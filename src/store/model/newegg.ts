@@ -31,6 +31,16 @@ export const Newegg: Store = {
 				'https://www.newegg.com/western-digital-blue-500gb/p/N82E16820250087?Item=N82E16820250087'
 		},
 		{
+			brand: 'asus',
+			cartUrl:
+				'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126485',
+			itemNumber: '14-126-485',
+			model: 'ekwb',
+			series: '3090',
+			url:
+				'https://www.newegg.com/asus-geforce-rtx-3090-rtx3090-24g-ek/p/N82E16814126485'
+		},
+		{
 			brand: 'msi',
 			cartUrl:
 				'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137601',
