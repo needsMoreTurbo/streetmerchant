@@ -270,16 +270,6 @@ export const Newegg: Store = {
       url:
         'https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453',
     },
-		{
-			brand: 'asus',
-			cartUrl:
-				'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126485',
-			itemNumber: '14-126-485',
-			model: 'ekwb',
-			series: '3090',
-			url:
-				'https://www.newegg.com/asus-geforce-rtx-3090-rtx3090-24g-ek/p/N82E16814126485'
-		},
     {
       brand: 'evga',
       cartUrl:
@@ -1135,6 +1125,15 @@ export const Newegg: Store = {
       series: '3090',
       url:
         'https://www.newegg.com/asus-geforce-rtx-3090-rtx3090-24g-ek/p/N82E16814126485',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126490',
+      model: 'ekwb',
+      series: '3070',
+      url:
+        'https://www.newegg.com/asus-geforce-rtx-3070-rtx3070-8g-ek/p/N82E16814126490',
     },
     {
       brand: 'gigabyte',
